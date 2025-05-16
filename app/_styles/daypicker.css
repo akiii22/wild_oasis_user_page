@@ -1,0 +1,10 @@
+.rdp-months {
+  display: flex !important;
+  flex-direction: row !important;
+  justify-content: center;
+  gap: 2rem; /* spacing between months */
+}
+
+.rdp-month {
+  width: auto;
+}
